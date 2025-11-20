@@ -1,4 +1,3 @@
 # kin9-0rz.github.io
 
-
--  https://kin9-0rz.github.io/webguide/
+- [WebGuide](https://kin9-0rz.github.io/web/)
